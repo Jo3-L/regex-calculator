@@ -1,0 +1,15 @@
+{
+	"name": "calculator",
+	"version": "1.0.0",
+	"description": "Calculator using regex",
+	"main": "dist/calculator/calculator.js",
+	"dependencies": {},
+	"devDependencies": {
+		"typescript": "^3.8.3",
+		"@types/node": "^14.0.13"
+	},
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "MIT"
+}
